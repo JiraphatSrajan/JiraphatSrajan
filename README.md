@@ -1,39 +1,36 @@
-# Jiraphat Srajan
-**จิรภัทร สระจันทร์**
+# จิรภัทร สระจันทร์
 
-Fourth-year Information and Communication Technology (ICT) student at Sripatum University.
+**Jiraphat Srajan**
 
-I am interested in web development, application development, UX/UI design, and AI-assisted development. I am developing my skills through academic and personal projects, with a focus on practical applications and clear, usable interfaces.
+นักศึกษาชั้นปีที่ 4 สาขาเทคโนโลยีสารสนเทศและการสื่อสาร (Information and Communication Technology: ICT) มหาวิทยาลัยศรีปทุม
 
-## 🚀 Featured Projects
+สนใจด้านการพัฒนาเว็บไซต์ (Web Development) การพัฒนาแอปพลิเคชัน (Application Development) การออกแบบ UX/UI และการพัฒนาซอฟต์แวร์โดยใช้ AI เป็นผู้ช่วย (AI-Assisted Development) กำลังพัฒนาทักษะผ่านโปรเจกต์ส่วนตัวและโปรเจกต์ทางการศึกษา โดยเน้นการสร้างผลงานที่ใช้งานได้จริงและมีส่วนติดต่อผู้ใช้ที่ชัดเจน
 
-The projects below are selected for this portfolio.
+## 🚀 โปรเจกต์เด่น (Featured Projects)
 
-<p align="center">
-  <a href="https://solo-growing-jiraphat.boss596305.chatgpt.site"><strong>Open Solo Growing Live Preview →</strong></a>
-</p>
+โปรเจกต์ที่คัดเลือกเพื่อแสดงทักษะและแนวทางการพัฒนาของผม
 
-| Project | Focus | Links |
+[**เปิดดู Solo Growing Live Preview →**](https://solo-growing-jiraphat.boss596305.chatgpt.site/)
+
+| โปรเจกต์ | รายละเอียด | ลิงก์ |
 | --- | --- | --- |
-| **Solo Growing** | An RPG-inspired self-development application centered on quests and progression. | [Project repository](https://github.com/JiraphatSrajan/SoloGrowing) · [Live preview](https://solo-growing-jiraphat.boss596305.chatgpt.site) |
-| **RobloxDevelopment** | Roblox development projects focused on scripting, gameplay systems, and interfaces. | — |
-| **Portfolio Web** | A personal website to present my background, skills, and selected projects. | — |
+| **Solo Growing** | เว็บแอปพลิเคชันพัฒนาตัวเองในรูปแบบ RPG ที่ใช้ระบบเควสต์และความก้าวหน้าของตัวละคร | [Repository](https://github.com/JiraphatSrajan/SoloGrowing) · [Live Preview](https://solo-growing-jiraphat.boss596305.chatgpt.site/) |
+| **RobloxDevelopment** | โปรเจกต์พัฒนาเกม Roblox ที่เน้นการเขียนสคริปต์ ระบบการเล่น และการออกแบบส่วนติดต่อผู้ใช้ | — |
+| **Portfolio Web** | เว็บไซต์ส่วนตัวสำหรับนำเสนอประวัติ ทักษะ และโปรเจกต์ที่คัดเลือก | — |
 
-## Areas of Interest
+## 🎯 ด้านที่สนใจ
 
-- **Web & Application Development** — Building responsive web interfaces and exploring practical application development.
-- **UX/UI Design** — Designing user flows, wireframes, and interface prototypes.
-- **AI-Assisted Development** — Exploring AI tools to support learning and development.
+- **Web & Application Development** — พัฒนาเว็บไซต์ที่รองรับการใช้งานบนหลายขนาดหน้าจอ และสร้างแอปพลิเคชันที่ตอบโจทย์การใช้งานจริง
+- **UX/UI Design** — ออกแบบ User Flow, Wireframe และต้นแบบส่วนติดต่อผู้ใช้
+- **AI-Assisted Development** — ใช้เครื่องมือ AI ช่วยศึกษา วางโครงสร้าง และพัฒนาซอฟต์แวร์
 
-## Skills & Tools
+## 🛠️ ทักษะและเครื่องมือ
 
-Technologies and tools in my current skill set:
-
-| Area | Technologies & Tools |
+| ด้าน | เทคโนโลยีและเครื่องมือ |
 | --- | --- |
-| Web Development | React, JavaScript, HTML, CSS, Bootstrap |
-| Design | Figma, Adobe Photoshop |
-| Development Workflow | GitHub, GitHub Actions |
-| Low-Code & Automation | AppSheet, n8n, Google Sheets |
+| การพัฒนาเว็บไซต์ | React, JavaScript, HTML, CSS, Bootstrap |
+| การออกแบบ | Figma, Adobe Photoshop |
+| การจัดการโค้ดและโปรเจกต์ | GitHub, GitHub Actions |
+| เครื่องมือ Low-Code | AppSheet, n8n, Google Sheets |
 
-Additional repository links will be added as project materials are published.
+ลิงก์ Repository อื่น ๆ จะเพิ่มเมื่อมีการเผยแพร่รายละเอียดของโปรเจกต์เพิ่มเติม
