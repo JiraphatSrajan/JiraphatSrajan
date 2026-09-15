@@ -12,10 +12,12 @@
 
 [**เปิดดู Solo Growing Live Preview →**](https://solo-growing-jiraphat.boss596305.chatgpt.site/)
 
+[**ทดลองเล่น Anime Fighting Star บน Roblox →**](https://www.roblox.com/games/81708986452110/Anime-Fighting-Star)
+
 | โปรเจกต์ | รายละเอียด | ลิงก์ |
 | --- | --- | --- |
 | **Solo Growing** | เว็บแอปพลิเคชันพัฒนาตัวเองในรูปแบบ RPG ที่ใช้ระบบเควสต์และความก้าวหน้าของตัวละคร | [Repository](https://github.com/JiraphatSrajan/SoloGrowing) · [Live Preview](https://solo-growing-jiraphat.boss596305.chatgpt.site/) |
-| **Roblox Game Development** | โปรเจกต์พัฒนาเกม Roblox ที่เน้นการเขียนสคริปต์ ระบบการเล่น และการออกแบบส่วนติดต่อผู้ใช้ | — |
+| **Roblox Game Development** | เกม Roblox แนวอนิเมะต่อสู้และผ่านด่าน พร้อมระบบสุ่มตัวละคร จัดทีม อัปเกรด และต่อสู้กับบอส | [Portfolio](https://github.com/JiraphatSrajan/Roblox-Game-Development) · [ทดลองเล่น](https://www.roblox.com/games/81708986452110/Anime-Fighting-Star) |
 | **Portfolio Web** | เว็บไซต์ส่วนตัวสำหรับนำเสนอประวัติ ทักษะ และโปรเจกต์ที่คัดเลือก | — |
 
 ## 🎯 ด้านที่สนใจ
@@ -29,6 +31,7 @@
 | ด้าน | เทคโนโลยีและเครื่องมือ |
 | --- | --- |
 | การพัฒนาเว็บไซต์ | React, JavaScript, HTML, CSS, Bootstrap |
+| การพัฒนาเกม | Roblox Studio, Luau, Visual Studio Code, Blender |
 | การออกแบบ | Figma, Adobe Photoshop |
 | การจัดการโค้ดและโปรเจกต์ | GitHub, GitHub Actions |
 | เครื่องมือ Low-Code | AppSheet, n8n, Google Sheets |
