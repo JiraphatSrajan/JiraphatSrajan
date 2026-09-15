@@ -13,6 +13,7 @@
 | โปรเจกต์ | รายละเอียด | ลิงก์ |
 | --- | --- | --- |
 | **Solo Growing** | เว็บแอปพลิเคชันพัฒนาตัวเองในรูปแบบ RPG ที่ใช้ระบบเควสต์และความก้าวหน้าของตัวละคร | [Repository](https://github.com/JiraphatSrajan/SoloGrowing) · [Live Preview](https://solo-growing-jiraphat.boss596305.chatgpt.site/) |
+| **TaskXP** | แอปพลิเคชันจัดการภารกิจในรูปแบบ RPG ช่วยเปลี่ยนงานประจำวันให้เป็นเควสต์ พร้อมระบบเลเวลและความก้าวหน้า | [Repository](https://github.com/JiraphatSrajan/TaskXP) · [Live Preview](https://jiraphatsrajan.github.io/TaskXP/) |
 | **Roblox Game Development** | เกม Roblox แนวอนิเมะต่อสู้และผ่านด่าน พร้อมระบบสุ่มตัวละคร จัดทีม อัปเกรด และต่อสู้กับบอส | [Portfolio](https://github.com/JiraphatSrajan/Roblox-Game-Development) · [ทดลองเล่น](https://www.roblox.com/games/81708986452110/Anime-Fighting-Star) |
 | **Portfolio Web** | เว็บไซต์ส่วนตัวสำหรับนำเสนอประวัติ ทักษะ และโปรเจกต์ที่คัดเลือก | — |
 
