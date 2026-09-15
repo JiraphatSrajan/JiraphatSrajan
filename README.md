@@ -3,14 +3,13 @@
 
 Fourth-year Information and Communication Technology (ICT) student at Sripatum University.
 
-I am interested in web development, application development, UX/UI design, AI-assisted development, and workflow automation. I am developing my skills through academic and personal projects, with a focus on practical applications and clear, usable interfaces.
+I am interested in web development, application development, UX/UI design, and AI-assisted development. I am developing my skills through academic and personal projects, with a focus on practical applications and clear, usable interfaces.
 
 ## Areas of Interest
 
 - **Web & Application Development** — Building responsive web interfaces and exploring practical application development.
 - **UX/UI Design** — Designing user flows, wireframes, and interface prototypes.
 - **AI-Assisted Development** — Exploring AI tools to support learning and development.
-- **Workflow Automation** — Exploring ways to connect tools and simplify repetitive tasks.
 
 ## Skills & Tools
 
