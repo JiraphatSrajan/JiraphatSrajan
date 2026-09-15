@@ -25,11 +25,11 @@ Technologies and tools in my current skill set:
 
 ## Featured Projects
 
-The projects below are selected for this portfolio. Solo Growing currently has a private live preview; public repository and demo links will be added as project materials are published.
+The projects below are selected for this portfolio. Solo Growing now has a public project overview repository and a private live preview.
 
-| Project | Focus | Link |
+| Project | Focus | Links |
 | --- | --- | --- |
-| **Solo Growing** | An RPG-inspired self-development application centered on quests and progression. | [Private live preview](https://solo-growing-jiraphat.boss596305.chatgpt.site) |
+| **Solo Growing** | An RPG-inspired self-development application centered on quests and progression. | [Project repository](https://github.com/JiraphatSrajan/SoloGrowing) · [Private live preview](https://solo-growing-jiraphat.boss596305.chatgpt.site) |
 | **RobloxDevelopment** | Roblox development projects focused on scripting, gameplay systems, and interfaces. | — |
 | **Portfolio Web** | A personal website to present my background, skills, and selected projects. | — |
 
