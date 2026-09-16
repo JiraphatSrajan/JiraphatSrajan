@@ -22,7 +22,7 @@
 | ด้าน | เทคโนโลยีและเครื่องมือ |
 | --- | --- |
 | การพัฒนาเว็บไซต์ | React, JavaScript, HTML, CSS, Bootstrap |
-| การพัฒนาเกม | Roblox Studio, Luau, Visual Studio Code, Blender |
-| การออกแบบ | Figma, Adobe Photoshop |
+| การพัฒนาเกม | Luau, Visual Studio Code, Blender |
+| การออกแบบ | Figma, Adobe Photoshop, Canva |
 | การจัดการโค้ดและโปรเจกต์ | GitHub, GitHub Actions |
-| เครื่องมือ Low-Code | AppSheet, n8n, Google Sheets |
+| เครื่องมือ Low-Code | AppSheet, n8n, Google Sheets, SQL |
