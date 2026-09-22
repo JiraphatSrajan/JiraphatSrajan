@@ -32,4 +32,4 @@
 
 สำหรับการติดต่อเรื่องงานหรือสอบถามรายละเอียดผลงาน:
 
-- **อีเมล:**[jiraphatboz1650@gmail.com](mailto:jiraphatboz1650@gmail.com)
+- **อีเมล:** [jiraphatboz1650@gmail.com](mailto:jiraphatboz1650@gmail.com)
