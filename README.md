@@ -25,4 +25,11 @@
 | การพัฒนาเกม | Luau, Visual Studio Code, Blender |
 | การออกแบบ | Figma, Adobe Photoshop, Canva |
 | การจัดการโค้ดและโปรเจกต์ | GitHub, GitHub Actions |
-| เครื่องมือ Low-Code | AppSheet, n8n, Google Sheets, SQL |
+| เครื่องมือ Low-Code | AppSheet, n8n, Google Sheets |
+| ฐานข้อมูล | SQL |
+
+## 📫 ติดต่อ
+
+สำหรับการติดต่อเรื่องงานหรือสอบถามรายละเอียดผลงาน:
+
+- **อีเมล:** [jiraphatboz1650@gmail.com](mailto:jiraphatboz1650@gmail.com)
